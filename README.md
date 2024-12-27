@@ -11,7 +11,7 @@ This is a simple calculator application built using React Native. The app provid
 - **Footer Branding**: Includes a footer displaying "Calc by Shravani."
 
 ## Screenshots
-(https://github.com/user-attachments/assets/30e16d84-2f8e-4669-a814-28527f34165f)
+![cL](https://github.com/user-attachments/assets/9a32d098-9dff-4ee2-8aaa-592cdaeb6109)
 
 
 ## Installation
